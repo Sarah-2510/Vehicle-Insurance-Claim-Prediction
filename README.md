@@ -59,7 +59,7 @@ Using boxplots, I looked for outliers. Outliers were handled using a function.
 
 ### 5. Machine Learning Models
 
-I tried three models : Linear regression, Decision tree regression and random forest regression. 
+I experimented with three different models: Linear regression, Decision tree regression, and Random forest regression. 
 
 ### 6. Result 
 
